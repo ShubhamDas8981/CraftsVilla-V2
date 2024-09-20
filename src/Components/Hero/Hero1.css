@@ -1,0 +1,60 @@
+.hero1 {
+    position: relative;
+    width: 100%;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #f0f0f0; /* Add your background style */
+}
+.hero1-h1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    height: 90vh;
+
+}
+.hero1-slider {
+    position: relative;
+    width: 80%;
+    height: 80%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero1-slider img {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.hero1-slider img.active {
+    opacity: 1;
+}
+
+.hero1-dots {
+    position: absolute;
+    bottom: 35px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.hero1-dots .dot {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: #ccc;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.hero1-dots .dot.active {
+    background-color: #ff4141;
+}
