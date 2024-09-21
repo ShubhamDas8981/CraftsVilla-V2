@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CraftsVilla-V2/static/css/main.5774d392.css",
-    "main.js": "/CraftsVilla-V2/static/js/main.6a46abec.js",
+    "main.js": "/CraftsVilla-V2/static/js/main.c875b296.js",
     "static/js/453.29b49ebb.chunk.js": "/CraftsVilla-V2/static/js/453.29b49ebb.chunk.js",
     "static/media/banner_kids.png": "/CraftsVilla-V2/static/media/banner_kids.fff815a581793a7380fb.png",
     "static/media/banner_women.png": "/CraftsVilla-V2/static/media/banner_women.5a27fc4e4533e57e4676.png",
@@ -54,11 +54,11 @@
     "static/media/product_10.png": "/CraftsVilla-V2/static/media/product_10.9398b58a43b11f6d4471.png",
     "index.html": "/CraftsVilla-V2/index.html",
     "main.5774d392.css.map": "/CraftsVilla-V2/static/css/main.5774d392.css.map",
-    "main.6a46abec.js.map": "/CraftsVilla-V2/static/js/main.6a46abec.js.map",
+    "main.c875b296.js.map": "/CraftsVilla-V2/static/js/main.c875b296.js.map",
     "453.29b49ebb.chunk.js.map": "/CraftsVilla-V2/static/js/453.29b49ebb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5774d392.css",
-    "static/js/main.6a46abec.js"
+    "static/js/main.c875b296.js"
   ]
 }
